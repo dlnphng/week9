@@ -95,7 +95,7 @@
           "mark": {
             "type": "text",
             "align": "center",
-            "dy": -25, 
+            "dy": -15, 
             "fontSize": 10,
             "fontWeight": "bold",
             "color": "black"
