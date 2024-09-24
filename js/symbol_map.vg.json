@@ -45,7 +45,7 @@
           "type": "quantitative",
           "title": "Total revenue",
           "scale": {
-            "domain": [0, 15000000],
+            "domain": [0, 4000],
             "range": [0, 2500]
           }
         },
