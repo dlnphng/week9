@@ -18,12 +18,12 @@
       "mark": {
         "type": "geoshape",
         "fill": "lightgray",
-        "stroke": "none"
+        "stroke": "white"
       }
     },
     {
       "data": {
-        "url": "https://raw.githubusercontent.com/dlnphng/3179-week9/main/data/Country.csv"
+        "url": "https://raw.githubusercontent.com/dlnphng/week9/main/data/Country.csv"
       },
       "mark": {
         "type": "circle",

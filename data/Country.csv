@@ -1,165 +1,20 @@
-Country Name,longitude,latitude,Total revenue
-Afghanistan,65,33,0
-Albania,20,41,0
-Algeria,3,28,0
-Andorra,1.5,42.5,447.0496014
-Angola,18.5,-12.5,0
-Argentina,-64,-34,26300.53581
-Armenia,45,40,125992.38
-Australia,133,-27,13093140.02
-Austria,13.33,47.33,676966.1201
-Azerbaijan,47.5,40.5,25853.39299
-Bahrain,50.55,26,1572646.932
-Bangladesh,90,24,0
-Barbados,-59.53,13.17,3266.610182
-Belarus,28,53,0
-Belgium,4,50.83,2064925.704
-Belize,-88.75,17.25,350.2274745
-Benin,2.25,9.5,1069.403829
-Bhutan,90.5,27.5,0
-Bolivia,-65,-17,325268.1504
-Bosnia and Herzegovina,18,44,64778.98418
-Botswana,24,-22,58289.10979
-Brazil,-55,-10,4206478.173
-Brunei Darussalam,114.67,4.5,1373.908437
-Bulgaria,25,43,605148.6995
-Burkina Faso,-2,13,1389.286108
-Burundi,30,-3.5,0
-Cambodia,105,13,0
-Cameroon,12,6,0
-Canada,-95,60,4165714.098
-Central African Republic,21,7,0
-Chad,19,15,0
-Chile,-71,-30,4936980.304
-China,105,35,4469921.065
-Colombia,-72,4,87759.29414
-Comoros,44.25,-12.17,0
-Costa Rica,-84,10,0
-Cote d'Ivoire,-5,8,0
-Croatia,15.5,45.17,99912.98538
-Cuba,-80,21.5,0
-Cyprus,33,35,17848.72137
-Denmark,10,56,258732.2951
-Djibouti,43,11.5,0
-Dominica,-61.33,15.42,0
-Dominican Republic,-70.67,19,0
-Ecuador,-77.5,-2,0
-El Salvador,-88.92,13.83,7312.760192
-Equatorial Guinea,10,2,0
-Eritrea,39,15,0
-Estonia,26,59,42119.95851
-Ethiopia,38,8,0
-Fiji,175,-18,1450.538362
-Finland,26,64,592192.8421
-France,2,46,1479072.34
-Gabon,11.75,-1,0
-Georgia,43.5,42,133114.2719
-Germany,9,51,4589629.165
-Ghana,-2,8,60265.07281
-Greece,22,39,426504.1804
-Greenland,-40,72,0
-Grenada,-61.67,12.12,52.07523059
-Guatemala,-90.25,15.5,12508.43322
-Guinea,-10,11,0
-Guinea-Bissau,-15,12,0
-Guyana,-59,5,14769.79731
-Haiti,-72.42,19,0
-Honduras,-86.5,15,0
-Hungary,20,47,217782.2602
-Iceland,-18,65,240366.4666
-India,77,20,1678652.151
-Indonesia,120,-5,0
-Iraq,44,33,0
-Ireland,-8,53,122720.2264
-Israel,34.75,31.5,93865.14467
-Italy,12.83,42.83,1602469.608
-Jamaica,-77.5,18.25,79231.83459
-Japan,138,36,2416595.146
-Jordan,36,31,119772.1412
-Kazakhstan,68,48,1146649.91
-Kenya,38,1,38297.54644
-Kiribati,173,1.42,0
-Kuwait,47.66,29.34,0
-Latvia,25,57,38061.29612
-Lebanon,35.83,33.83,26525.51397
-Lesotho,28.5,-29.5,0
-Liberia,-9.5,6.5,0
-Liechtenstein,9.53,47.17,0
-Lithuania,24,56,76379.0715
-Luxembourg,6.17,49.75,74882.15758
-Madagascar,47,-20,126290.8412
-Malawi,34,-13.5,1056.785121
-Malaysia,112.5,2.5,1185830.827
-Maldives,73,3.25,1293.271542
-Mali,-4,17,0
-Malta,14.58,35.83,2752.190499
-Marshall Islands,168,9,0
-Mauritania,-12,20,0
-Mauritius,57.55,-20.28,6241.231732
-Mexico,-102,23,1205341.959
-Monaco,7.4,43.73,0
-Mongolia,105,46,0
-Montenegro,19,42,11173.15031
-Morocco,-5,32,183553.3212
-Mozambique,35,-18.25,192722.3287
-Myanmar,98,22,19050.07093
-Namibia,17,-22,144381.2819
-Nauru,166.92,-0.53,0
-Nepal,84,28,0
-Netherlands,5.75,52.5,2197403.308
-New Zealand,174,-41,135541.6211
-Nicaragua,-85,13,6892.779363
-Niger,8,16,0
-Nigeria,8,10,68069.47152
-Norway,10,62,902998.8739
-Oman,57,21,0
-Pakistan,70,30,128323.9747
-Palau,134.5,7.5,0
-Panama,-80,9,1201601.393
-Papua New Guinea,147,-6,0
-Paraguay,-58,-23,13112.88489
-Peru,-76,-10,0
-Philippines,122,13,574420.1074
-Poland,20,52,1238589.334
-Portugal,-8,39.5,215127.0486
-Qatar,51.25,25.5,227144.524
-Romania,25,46,249313.4089
-Rwanda,30,-2,0
-Samoa,-172.33,-13.58,0
-San Marino,12.42,43.77,0
-Sao Tome and Principe,7,1,3.635854247
-Saudi Arabia,45,25,0
-Senegal,-14,14,0
-Serbia,21,44,0
-Seychelles,55.67,-4.58,0
-Sierra Leone,-11.5,8.5,0
-Singapore,103.8,1.37,385592.1739
-Slovenia,15,46,229206.2608
-Solomon Islands,159,-8,0
-Somalia,49,10,0
-Spain,-4,40,1354648.275
-Sri Lanka,81,7,7136.453988
-Sudan,30,15,0
-Suriname,-56,4,2751.55457
-Sweden,15,62,1022180.858
-Switzerland,8,47,658856.5155
-Syrian Arab Republic,38,35,0
-Tajikistan,71,39,0
-Thailand,100,15,0
-Togo,1.17,8,38682.42177
-Tonga,-175,-20,0
-Trinidad and Tobago,-61,11,0
-Tunisia,9,34,0
-Turkmenistan,60,40,0
-Tuvalu,178,-8,0
-Uganda,32,1,0
-Ukraine,32,49,215599.3789
-United Arab Emirates,54,24,0
-United Kingdom,-2,54,2355238.421
-United States,-97,38,5758055.021
-Uruguay,-56,-33,3266.079208
-Uzbekistan,64,41,168202.2295
-Vanuatu,167,-16,0
-Venezuela,-66,8,0
-Zambia,30,-15,688733.7667
-Zimbabwe,30,-20,310514.4459
+Country Name,longitude,latitude,Total revenue,Type,Percentage
+Australia,133,-27,130.93,Export,28.47
+Brazil,-55,-10,42.06,Export,9.15
+Canada,-110,60,41.66,Export,9.06
+Chile,-71,-30,49.37,Export,10.73
+China,110,35,44.70,Export,9.72
+Germany,10,51,45.90,Export,9.98
+Japan,140,36,24.17,Export,5.25
+United Kingdom,-3,54,23.55,Export,5.12
+United States,-90,38,57.58,Export,12.52
+Belgium,4,50.83,227,Import,3.24
+China,95,35,3730,Import,53.19
+Germany,3,51,605,Import,8.63
+India,77,20,406,Import,5.79
+Italy,12.83,42.83,304,Import,4.33
+Japan,133,36.5,553,Import,7.88
+Turkey,35,39,238,Import,3.40
+United Kingdom,-10,54,229,Import,3.27
+United States,-103,38,720,Import,10.26
+,,,,,,
