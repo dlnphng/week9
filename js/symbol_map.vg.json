@@ -41,19 +41,19 @@
           "type": "quantitative"
         },
         "size": {
-          "field": "Total revenue (billion $)",
+          "field": "Total revenue",
           "type": "quantitative",
-          "title": "Total revenue (billion $)",
+          "title": "Total revenue",
           "scale": {
             "domain": [0, 15000000]
           }
         },
         "color": {
-          "field": "Total revenue (billion $)",
+          "field": "Total revenue",
           "type": "quantitative",
-          "title": "Total revenue (billion $)",
+          "title": "Total revenue",
           "scale": {
-            "scheme": "goldorange-5"
+            "scheme": "goldorange"
           }
         }
       }
