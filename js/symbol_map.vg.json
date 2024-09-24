@@ -101,7 +101,7 @@
           "mark": {
             "type": "text",
             "align": "center",
-            "fontSize": 10,
+            "fontSize": 7,
             "fontWeight": "bold",
             "color": "black"
           },
