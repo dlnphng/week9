@@ -17,8 +17,8 @@
       },
       "mark": {
         "type": "geoshape",
-        "fill": "lightgray",
-        "stroke": "white"
+        "fill": "gray",
+        "stroke": "black"
       }
     },
     {
@@ -54,7 +54,7 @@
           "type": "quantitative",
           "title": "Total revenue",
           "scale": {
-            "scheme": "yelloworangered-3"
+            "scheme": "yelloworangered"
           }
         }
       }
