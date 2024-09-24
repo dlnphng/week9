@@ -52,40 +52,71 @@
       "data": {
         "url": "https://raw.githubusercontent.com/dlnphng/week9/main/data/Country.csv"
       },
-      "mark": {
-        "type": "circle",
-        "tooltip": {
-          "content": "data"
-        }
-      },
-      "encoding": {
-        "longitude": {
-          "field": "longitude",
-          "type": "quantitative"
-        },
-        "latitude": {
-          "field": "latitude",
-          "type": "quantitative"
-        },
-        "size": {
-          "field": "Percentage of Total Ore and Metal Revenue (%)",
-          "type": "quantitative",
-          "title": "% of Total Ore and Metal Revenue",
-          "scale": {
-            "domain": [0, 100],
-            "range": [0, 3000]
+      "layer": [
+        {
+          "mark": {
+            "type": "circle",
+            "stroke": "black",  
+            "strokeWidth": 1.5, 
+            "tooltip": {
+              "content": "data"
+            }
+          },
+          "encoding": {
+            "longitude": {
+              "field": "longitude",
+              "type": "quantitative"
+            },
+            "latitude": {
+              "field": "latitude",
+              "type": "quantitative"
+            },
+            "size": {
+              "field": "Percentage of Total Ore and Metal Revenue (%)",
+              "type": "quantitative",
+              "title": "% of Total Ore and Metal Revenue",
+              "scale": {
+                "domain": [0, 100],
+                "range": [0, 3000]
+              }
+            },
+            "color": {
+              "field": "Type",
+              "type": "nominal",
+              "title": "Revenue Type (Export/Import)",
+              "scale": {
+                "domain": ["Export", "Import"],
+                "range": ["#FF6600", "#0066CC"]
+              }
+            }
           }
         },
-        "color": {
-          "field": "Type",
-          "type": "nominal",
-          "title": "Revenue Type (Export/Import)",
-          "scale": {
-            "domain": ["Export", "Import"],
-            "range": ["#FF6600", "#0066CC"]
+        {
+          "mark": {
+            "type": "text",
+            "align": "center",
+            "dy": -5,
+            "fontSize": 10,
+            "fontWeight": "bold",
+            "color": "black"
+          },
+          "encoding": {
+            "longitude": {
+              "field": "longitude",
+              "type": "quantitative"
+            },
+            "latitude": {
+              "field": "latitude",
+              "type": "quantitative"
+            },
+            "text": {
+              "field": "Percentage of Total Ore and Metal Revenue (%)",
+              "type": "quantitative",
+              "format": ".1f" 
+            }
           }
         }
-      }
+      ]
     }
   ]
 }
