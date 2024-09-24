@@ -18,7 +18,7 @@
       "mark": {
         "type": "geoshape",
         "fill": "lightgray",
-        "stroke": "white"
+        "stroke": "darkgray"
       }
     },
     {
@@ -41,9 +41,9 @@
           "type": "quantitative"
         },
         "size": {
-          "field": "Percentage",
+          "field": "Percentage of Total Ore and Metal Revenue (%)",
           "type": "quantitative",
-          "title": "Percentage of Total Ore and Metal Revenue (%)",
+          "title": "% of Total Ore and Metal Revenue",
           "scale": {
             "domain": [0, 100],
             "range": [0, 3000]
