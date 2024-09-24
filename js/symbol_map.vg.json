@@ -46,7 +46,7 @@
           "title": "Percentage of Total Revenue",
           "scale": {
             "domain": [0, 100],
-            "range": [0, 300]
+            "range": [0, 3000]
           }
         },
         "color": {
