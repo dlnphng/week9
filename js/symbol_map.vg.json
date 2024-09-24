@@ -2,7 +2,7 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "width": 800,
   "height": 500,
-  "title": "Top Revenue from Ore and Metal Exports and Imports",
+  "title": "Top Global Exporters and Importers of Ore and Metals",
   "projection": {
     "type": "equalEarth"
   },
