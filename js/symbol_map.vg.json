@@ -1,8 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": 1000,
-  "height": 800,
-  "title": "Global Revenue from Ore and Mineral Exports (billion US $)",
+  "width": 800,
+  "height": 450,
+  "title": "Global Revenue from Ore and Mineral Exports (billion $)",
   "projection": {
     "type": "equalEarth"
   },
