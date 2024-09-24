@@ -95,8 +95,8 @@
           "mark": {
             "type": "text",
             "align": "center",
-            "dy": -10, 
-            "fontSize": 8,
+            "dy": -17, 
+            "fontSize": 7,
             "fontWeight": "bold",
             "color": "black"
           },
@@ -112,7 +112,7 @@
             "text": {
               "field": "Percentage of Total Ore and Metal Revenue (%)",
               "type": "quantitative",
-              "format": ".2f" 
+              "format": ".1f" 
             }
           }
         }
