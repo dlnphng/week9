@@ -41,24 +41,24 @@
           "type": "quantitative"
         },
         "size": {
-          "field": "Total revenue",
+          "field": "Percentage",
           "type": "quantitative",
-          "title": "Total revenue",
+          "title": "Percentage of Total Revenue",
           "scale": {
-            "domain": [0, 4000],
+            "domain": [0, 100],
             "range": [0, 2500]
           }
         },
         "color": {
-          "field": "Total revenue",
-          "type": "quantitative",
-          "title": "Total revenue",
+          "field": "Type",
+          "type": "nominal",
+          "title": "Revenue Type",
           "scale": {
-            "scheme": "yelloworangered"
+            "domain": ["Export", "Import"],
+            "range": ["#FF6600", "#0066CC"]
           }
         }
       }
     }
   ]
 }
-
