@@ -45,7 +45,7 @@
           "type": "quantitative",
           "title": "Percentage of Total Ore and Metal Revenue (%)",
           "scale": {
-            "domain": [0, 60],
+            "domain": [0, 100],
             "range": [0, 3000]
           }
         },
