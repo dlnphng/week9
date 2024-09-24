@@ -54,7 +54,7 @@
           "type": "quantitative",
           "title": "Total revenue",
           "scale": {
-            "scheme": "yelloworangered-5"
+            "scheme": "yelloworangered-3"
           }
         }
       }
